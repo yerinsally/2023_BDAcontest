@@ -11,6 +11,7 @@ test 데이터 기반으로 예측 모델링 수행 후 csv 파일 제출
 - final_model_submission : train 학습한 모델로 test 예측 → submission.csv
 - final_preprocessing_train : train 최종 전처리 → data > cj_empY_train, cj_empN_test
 - final_preprocessing_test : test 최종 전처리 → data > cj_empY, cj_empN
+
 → f1-score = 0.6262
 
 ### 23.06.01 제출
